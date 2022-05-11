@@ -3,7 +3,7 @@ import React from 'react'
 export default function About(){
     return(
         <div id="App">
-            <h1>React Router Application</h1>
+            <h1 id="p1">React Router Application</h1>
             <br/>
             
             <div id="part1">
