@@ -1,9 +1,12 @@
 .App {
-  /*text-align: center;*/
+  text-align: center;
   padding: 40px;
 }
 .p1{
   text-align: center;
+}
+.part1{
+  padding: 500px;
 }
 
 /*.App-logo {

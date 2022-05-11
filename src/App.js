@@ -4,7 +4,7 @@ import React  from 'react';
 import {BrowserRouter,Route,Routes} from 'react-router-dom';
 function App(){
   return(
-    /*<div className='App'>
+    /*<div className='App'>i have bee
       <About/>
     </div>*/
     <BrowserRouter>
