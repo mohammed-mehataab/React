@@ -1,0 +1,20 @@
+#hero{
+    background-image:url('https://www.unboxingart.in/wp-content/uploads/2021/03/all-courses-header-1.png');
+    /* background-image: https://www.unboxingart.in/wp-content/uploads/2021/03/all-courses-header-1.png; */
+    color: white;
+    padding: 50px;
+    background-size: cover;
+    background-position: center;
+}
+#body{
+    text-align: center;
+    padding: 50px;
+}
+#body img{
+    border-radius: 10px;
+}
+#body p{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}

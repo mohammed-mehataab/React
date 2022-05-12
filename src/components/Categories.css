@@ -1,0 +1,58 @@
+#categories img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#categories{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:100px;
+}
+
+.post-title{
+    font-size: 20px;
+}
+
+.category-name{
+    background-color: pink;
+    max-width: 35%;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.category-name:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#categories .wrapper{
+    max-width: 25%;
+    border:2px solid pink;
+    border-radius: 10px;
+}
+
+.content-div{
+    padding: 20px;
+}
+
+.author{
+    font-weight: bold;
+}
+
+.author:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color:purple;
+}
+
+span{
+    color:gray;
+    font-weight: bold;
+}
+
+span:hover{
+    text-decoration: none;
+    cursor: default;
+    color:gray;
+}
